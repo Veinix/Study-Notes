@@ -6,16 +6,16 @@ JavaScript is a scripting or programming language that allows you to implement c
 
 But you might know that already, so head on ahead to the topics below to find out more information about something you are looking for!
 
-[Back](/main.md)
+[Back](../Index/index.md)
 
 ## Topics
 
-- [Call Stack](./callStack.md)
 - [Console](./console.md)
-- [Events](./events.md)
 - [Storage](./storage.md)
-- [Run Time Environment](./runTimeEnvironment.md)
-- [Web Workers](./webWorkers.md)
-- JavaScript Versions
+<!-- - [Call Stack](./callStack.md) -->
+<!-- - [Events](./events.md) -->
+<!-- - [Run Time Environment](./runTimeEnvironment.md) -->
+<!-- - [Web Workers](./webWorkers.md) -->
+<!-- - JavaScript Versions
 - Browser Support
-- APIs
+- APIs -->

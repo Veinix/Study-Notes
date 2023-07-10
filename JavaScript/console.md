@@ -1,16 +1,10 @@
 # Console Notes
 
-## Links to sources, and more reading
+Within each browser we have a console that displays errors and can also display information that we log to it
 
-[How to Geek - Formatting Output](https://www.howtogeek.com/devops/ways-to-format-console-output-in-javascript/)
+[Back to JavaScript Menu](./jsMain.md)
 
-[Mozilla MDN - Console API](https://developer.mozilla.org/en-US/docs/Web/API/Console_API)
-
-[Mozilla MDN - Console Object](https://developer.mozilla.org/en-US/docs/Web/API/Console)
-
-## Markdown help
-
-[Markdown Notes](../Markdown/markdown.md)
+[Links to sources, and more reading](#sources)
 
 ---
 
@@ -105,3 +99,15 @@ The console has built-in support for operation timing. Elapsed time is measured 
 
 `console.profile()`
 : Non-standard method (engine-dependent). Widely available but with differing implementations. In browsers, it generally invokes high-accuracy profiling to help you diagnose performance issues
+
+---
+
+## Sources
+
+[How to Geek - Formatting Output](https://www.howtogeek.com/devops/ways-to-format-console-output-in-javascript/)
+
+[Mozilla MDN - Console API](https://developer.mozilla.org/en-US/docs/Web/API/Console_API)
+
+[Mozilla MDN - Console Object](https://developer.mozilla.org/en-US/docs/Web/API/Console)
+
+[Back to top](#console-notes)

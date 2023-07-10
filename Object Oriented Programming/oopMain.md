@@ -2,9 +2,11 @@
 
 OOP is a programming paradigm that revolves around the concept of objects, which are instances of classes. It provides a way to organize code into reusable and modular structures, making it easier to manage and maintain larger software systems. OOP focuses on four main principles: encapsulation, inheritance, abstraction, and polymorphism.
 
----
+[Back to main](../Index/index.md)
 
 ## Table of Contents
+
+[Sources and Further Reading](#sources)
 
 ---
 
@@ -208,3 +210,9 @@ Abstraction refers to the process of simplifying complex systems by breaking the
 >Polymorphism is like a shape-shifting power. It allows objects to change their form and behavior, adapting to different situations or roles.
 
 Polymorphism refers to the ability of objects to take on different forms or exhibit different behaviors depending on the context. In OOP, polymorphism allows you to write code that can work with objects of different classes, as long as they share a common interface or base class. This is achieved through method overriding and method overloading. Method overriding occurs when a derived class provides its own implementation of a method inherited from the base class. This allows you to use the same method name but customize the behavior based on the specific class. Method overloading, on the other hand, involves having multiple methods with the same name but different parameters within a class. The appropriate method to be called is determined by the number and types of arguments provided. Polymorphism enhances flexibility and extensibility, as you can write code that can handle various objects without knowing their specific types.
+
+---
+
+## Sources
+
+[Back to Top](#object-orientated-programming)

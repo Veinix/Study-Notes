@@ -1,5 +1,51 @@
 # Changelog
 
+## Version 1.1 (10/07/23)
+
+### Changes
+
+#### Newly Added
+* Topics
+  * [Redux](./Redux/reduxmain.md)
+
+* QOL and Design
+  * Used Admonition to style certain code blocks, tips, and summaries
+
+### Planned Changes
+
+#### To Add
+
+* NodeJS
+* jQuery
+* ChatGPT
+* TypeScript
+* Angular
+* HTTP
+
+#### To Update
+
+* React
+* JavaScript
+  * Run Time Environment
+  * Web Workers
+  * Call Stack
+  * Events
+* Coding Best Practices
+* OOP
+* Markdown
+* Coding Best Practices
+* VSCode
+* Git
+
+#### QOL and Design
+
+* Add Breadcrumbs to keep track where the user is
+* Legend/Explaining the terms used in the file
+* Organize Table Of Contents alphabetically
+* Search functionality
+* Better styling for font, images, tables, etc.
+
+---
 ## Version 1.0 (06/07/23)
 
 ### Changes
@@ -25,11 +71,12 @@
 #### To Add
 
 * NodeJS
-* VSCode
 * jQuery
 * ChatGPT
 * TypeScript
 * Angular
+* Redux
+* HTTP
 
 #### To Update
 
@@ -43,6 +90,8 @@
 * OOP
 * Markdown
 * Coding Best Practices
+* VSCode
+* Git
 
 #### QOL and Design
 

@@ -1,4 +1,4 @@
-# Markdown Notes
+# Markdown
 
 ## What is markdown?
 
@@ -6,13 +6,11 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 The initial description of Markdown contained ambiguities and raised unanswered questions, causing implementations to both intentionally and accidentally diverge from the original version. This was addressed in 2014, when long-standing Markdown contributors released CommonMark, an unambiguous specification and test suite for Markdown.
 
-Its key design goal was readability, that the language be readable as-is, without looking like it has been marked up with tags or formatting instructions, unlike text formatted with 'heavier' markup languages, such as Rich Text Format (RTF), HTML, or even wikitext (each of which have obvious in-line tags and formatting instructions which can make the text more difficult for humans to read). [^1]  
+Its key design goal was readability, that the language be readable as-is, without looking like it has been marked up with tags or formatting instructions, unlike text formatted with 'heavier' markup languages, such as Rich Text Format (RTF), HTML, or even wikitext (each of which have obvious in-line tags and formatting instructions which can make the text more difficult for humans to read). [^1]
 
-[Sources and More info](#sources)
+[Back](../Index/index.md)
 
----
-
-## Topics
+## Table of Contents
 
 * [Standardization and Variants](#standardization-and-variants)
 
@@ -21,6 +19,8 @@ Its key design goal was readability, that the language be readable as-is, withou
 * [Extended Syntax](#extended-syntax)  
 
 * [Custom Styling](#custom-styling)
+
+[Sources](#sources)
 
 ---
 
@@ -145,6 +145,8 @@ Nesting supported (by indent) admonition, the following shows a danger admonitio
 [Visual Studio Code Docs - Markdown](https://code.visualstudio.com/docs/languages/markdown)
 
 [Github - Writing with Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+
+[Back to top](#markdown)
 
 [^1]: ["Markdown".](https://en.wikipedia.org/wiki/Markdown) Wikipedia
 

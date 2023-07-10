@@ -14,9 +14,14 @@ Bash is an acronym - Bourne Again Shell. The name is a pun on the Bourne shell w
 
 Git Bash is strictly for Windows users. It provides an emulation of both Git and the Bash command-line environment. Installing Git Bash on your Windows machine gives you access to a shell environment that is native to macOS and Linux users.
 
-## [Sources and Further Reading](#sources)
+[Back to main](../Index/index.md)
 
-## [Back to main](../main.md)
+## Table of Contents
+
+- Topic
+- Topic
+
+[Sources and Further Reading](#sources)
 
 ---
 

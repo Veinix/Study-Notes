@@ -12,7 +12,7 @@ Happy Studying!
 
 ## How to use
 
-Navigate to the `main.md` file. Open it in a preview or however is comfortable for you. From there, you can click on the different hyper links to navigate the directory.
+Navigate to the [index.md](./Index/index.md) file. Open it in a preview or however is comfortable for you to view `Markdown` files. From there, you can click on the different hyper links to navigate the directory.
 
 ---
 
@@ -38,7 +38,7 @@ Markdown file containing a link to go back, sources and further reading on the t
 
 Section in the topic file with information about a certain concept within the realm of the topic
 
-## Dependancies
+## Dependencies
 
 I use a custom styling and a couple of extensions that make the notes look and feel better.
 <!-- Will update in future update -->
@@ -50,5 +50,4 @@ Extensions
 
 * [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts)
 * [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
-* [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 * [Markdown Extended](https://marketplace.visualstudio.com/items?itemName=jebbs.markdown-extended)

@@ -6,11 +6,7 @@ In other words, Git is an open-source distributed version control system - [What
 
 Collaboration is a fundamental aspect of Git. You can clone a remote repository (eg. from Github) to your local machine, work on it, and then push your changes back to the remote repository. Git ensures that concurrent changes from multiple developers can be integrated smoothly, resolving conflicts when necessary.
 
-## [Sources and Further Reading](#sources)
-
-## [Back to main](../main.md)
-
----
+[Back to main](../Index/index.md)
 
 ## Table of Contents
 
@@ -19,6 +15,8 @@ Collaboration is a fundamental aspect of Git. You can clone a remote repository 
 - [Basic Commands](#basic-commands)
 - [Advanced Commands](#advanced-commands)
 - [Version Control Systems](#version-control-systems)
+
+[Sources and Further Reading](#sources)
 
 ---
 

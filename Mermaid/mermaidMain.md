@@ -1,10 +1,16 @@
-# Mermaid Notes
+# Mermaid
 
 > Aren't those narwhals?
 
+Mermaid lets you create diagrams and visualizations using text and code.
+
+[Back](../Index/index.md)
+
 [Sources and More info](#links-to-sources-and-further-reading)
 
-Mermaid lets you create diagrams and visualizations using text and code.
+---
+
+## Basics
 
 It is a JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
 
@@ -33,3 +39,5 @@ graph TD;
 ## Links to sources and further reading
 
 [Mermaid Docs](https://mermaid.js.org/intro/)
+
+[Back to top](#mermaid)

@@ -1,19 +1,31 @@
-# Local Storage Notes
+# Client Side Storage Notes
 
-## [Links to Sources](#sources)
+There are a couple different ways to store data on the client. These include:
+
+* Session Storage
+* Local Storage
+* Cache
+* IndexDB
+* Cookies
+
+Definitions and further informations regarding these can be found below.
+
+[Back to JavaScript Menu](./jsMain.md)
+
+[Links to Sources](#sources)
 
 ---
 
-## Session Storage vs Local Storage
+## Session Storage
 
-`sessionStorage`
-: Maintains a separate storage area for each given origin that's available for the duration of the page session (as long as the browser is open, including page reloads and restores).
+Maintains a separate storage area for each given origin that's available for the duration of the page session (as long as the browser is open, including page reloads and restores).
 Stores data only for a session, meaning that the data is stored until the browser (or tab) is closed.
 Data is never transferred to the server.
 Storage limit is larger than a cookie (at most 5MB).
 
-`localStorage`
-: Does the same thing, but persists even when the browser is closed and reopened.
+## Local Storage
+
+Does the same thing as `sessionStorage`, but persists even when the browser is closed and reopened.
 Stores data with no expiration date, and gets cleared only through JavaScript, or clearing the Browser cache / Locally Stored Data.
 Storage limit is the maximum amongst the two.
 

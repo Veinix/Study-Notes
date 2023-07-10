@@ -1,6 +1,14 @@
 # Best Practices
 
-## [Link to sources and further reading](#sources)
+Here are best practices in coding from around the world
+
+[Back](../Index/index.md)
+
+## Table of Contents
+
+* [Variable Naming](#variable-naming-convention)
+
+[Link to sources and further reading](#sources)
 
 ---
 
