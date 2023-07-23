@@ -26,15 +26,15 @@ Main folder containing the subject folders and the main markdown directory nav f
 
 Folder containing the topic files and the markdown directory nav file
 
-### Directory nav file
+### Directory Nav File
 
 Markdown file containing hyperlinks to go to the main menu, and the various topic files in the directory
 
-### Topic file
+### Topic File
 
-Markdown file containing a link to go back, sources and further reading on the topic, and information or notes on the topic and it's sub-topics
+Markdown file containing a link to go back, sources and further reading on the topic, and information or notes on the topic and it's sub-topics. Can be considered the index of the Topic.
 
-### Sub-Topic
+### Sub-Topic File
 
 Section in the topic file with information about a certain concept within the realm of the topic
 

@@ -8,7 +8,7 @@ In simpler terms, Redux is like a memory bank for your game that remembers every
 
 This document will introduce you to the core concepts, principles, and patterns for using Redux. By the time you finish, you should understand the different pieces that make up a Redux app, how data flows when using Redux, and Redux's standard recommended patterns for building Redux apps
 
-[Main Menu](../Index/index.md)
+[Main Menu](../../Index/index.md)
 
 ## Table of Contents
 

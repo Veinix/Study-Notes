@@ -1,5 +1,87 @@
 # Changelog
 
+All updates and planned updates are written below per commit. If you have any questions, send me a message and let me know.
+
+## Version 1.2 (TBU)
+
+### Changes
+
+#### Added
+
+##### Subject Folders & Topic File
+
+* Useful Websites
+* JS Libraries
+* APIs
+
+#### Updated
+
+#### Removed
+
+### Planned Changes
+
+Sorted by most important to update, to least important to update
+
+#### To Add 
+
+##### Subject Folders & Topic File
+
+* Firebase
+* HTTP
+* General Programming
+* ChatGPT
+* cURL
+
+##### Sub-Topic Files
+
+* Redux
+  * UI and React
+  * Material UI
+* VSCode
+  * Debugging
+* JS Libaries
+  * NodeJS
+  * React
+  * Redux
+  * TypeScript
+  * jQuery
+  * Angular
+* JavaScript
+  * Modules
+
+##### Root Folder
+
+* Centralized assets folder
+
+#### To Update
+
+##### Topic Files
+
+* React
+* JavaScript
+* OOP
+* Git
+* Coding Best Practices
+* Markdown
+* Coding Best Practices
+* VSCode
+* Bash
+* APIs
+
+##### Sub-Topic Files
+
+* JavaScript
+  * Run Time Environment
+  * Web Workers
+  * Call Stack
+  * Events
+* APIs
+  * RESTful APIs
+
+### QOL and Design
+
+* Move JS Libraries into their own topic folder
+
 ## Version 1.1 (10/07/23)
 
 ### Changes
@@ -45,7 +127,6 @@
 * Search functionality
 * Better styling for font, images, tables, etc.
 
----
 ## Version 1.0 (06/07/23)
 
 ### Changes

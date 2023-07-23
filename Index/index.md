@@ -14,6 +14,7 @@ Use the below table of contents to navigate the different topics, and sub-topics
   * [Run Time Environment](../JavaScript/runTimeEnvironment.md)
   * [Storage](../JavaScript/storage.md)
   * [Web Workers](../JavaScript/webWorkers.md) -->
+* [JavaScript Libraries](../JS%20Libraries/jsLibrariesMain.md)
 * [Mermaid](../Mermaid/mermaidMain.md)
 * [Bash](../Bash/bashmain.md)
 * [Git](../Git/gitmain.md)
